@@ -1,0 +1,16 @@
+{
+  "resources": {
+    "tr": {
+      "translation": {
+        "title": "Vercel Build",
+        "start": "Hadi Baslayalım"
+      }
+    },
+    "en": {
+      "translation": {
+        "title": "Vercel Build",
+        "start": "Get Started"
+      }
+    }
+  }
+}
