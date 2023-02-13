@@ -1,9 +1,16 @@
-import React from 'react'
 
+
+import React from 'react'
 function deneme() {
   return (
-    <div>deneme</div>
-  )
+<>
+sadas
+asd
+asd
+asd
+<a href="d
+asd"></a></>
+    )
 }
 
 export default deneme
